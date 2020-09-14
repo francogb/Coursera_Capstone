@@ -1,0 +1,3 @@
+The example dataset to be used has 33 columns. The target variable will be 'SEVERITYCODE', as it is a measure of the severity of the accident and varies between 1 and 2.
+
+The attributes 'WEATHER', 'ROADCOND' and 'LIGHTCOND' will be used to weigh the severity of an accident.
